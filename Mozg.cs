@@ -5,12 +5,8 @@ using System.Text;
 
 namespace TestGIT
 {
-	class Program
+	class Mozg
 	{
-		static void Main(string[] args)
-		{
-			int a;
-			Console.WriteLine("hello");
-		}
+		private int level;
 	}
 }
