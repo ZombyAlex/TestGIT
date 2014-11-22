@@ -8,6 +8,5 @@ namespace TestGIT
 	class Mozg
 	{
 		private int level;
-		private int count;
 	}
 }
